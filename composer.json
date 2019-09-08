@@ -1,0 +1,14 @@
+{
+    "name": "denish/my-plugin",
+    "description": "Awesome start",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "drmaniya",
+            "email": "drmaniya0196@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
